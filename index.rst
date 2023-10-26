@@ -1,6 +1,6 @@
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 3
    :caption: KS3014 Raspberry Pi Super Starter Kit Processing JAVA
 
 
